@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Lafont Rapnouil Tristan
-- 👀 I’m interested in Biology, ecology, evolution and associated informatic and programming tools
-- 🌱 I’m currently learning R and Rstudio environment (with Rmd emphasis for transparency purposes) as well as Bash for metabarcoding data analysis.
-- 💞️ I’m looking to collaborate on 'Nothing so far'
-- 📫 How to reach me : tristan.lafontrapnouil@gmail.com
+- PhD Student in ecology and microbe-plants interactions.
+- How to reach me : tristan.lafontrapnouil@gmail.com
 
 <!---
 LafontRapnouilTristan/LafontRapnouilTristan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
