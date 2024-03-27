@@ -1,4 +1,4 @@
-- PhD Student in ecology and microbe-plants interactions.
+- PostDoc in peatnland microbial ecology after PhD on microbe-plants interactions.
 - How to reach me : tristan.lafontrapnouil@gmail.com
 
 <!---
