@@ -1,4 +1,6 @@
-- PostDoc in peatnland microbial ecology after PhD on microbe-plants interactions.
+- currently in PostDoc on seed to seedling microbiota transmission
+- One year (2024-2025) PostDoc on northern peatland soil microbial communities
+- PhD on microbe-plants interactions in Bromeliads.
 - How to reach me : tristan.lafontrapnouil@gmail.com
 
 <!---
